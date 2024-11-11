@@ -58,5 +58,6 @@ setup(
         'tencentcloud-sdk-python>=3.0.1098',
         'texttable>=1.7.0',
         'twilio>=8.13.0',
+        'slack_sdk==3.20.0'
     ]
 )
